@@ -19,7 +19,7 @@
     <a href="https://quora.com/profile/Ashutosh-2172" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Quora&logo=quora&label=&color=B92B27&logoColor=white&style=for-the-badge" height="35" alt="quora logo" />
   </a>
-</div></br>
+</div>
 
 
 
