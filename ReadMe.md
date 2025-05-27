@@ -3,7 +3,7 @@
 </div> -->
 
 # 💫 About Me:
-👋 Hi, I’m Ashutosh Agrawal<br>🎓 MS in Computer Engineering candidate at NYU Tandon<br>💼 Former Senior Software Engineer at LTIMindtree, leading development solutions for The Walt Disney Company<br>🛠️ Passionate about high-performance machine learning, distributed systems, and scalable web applications<br>🔍 Also exploring data roles—sparked an interest in data engineering, analytics, and data-driven decision making<br>🌱 Continuously learning new technologies—recent deep dives into PyTorch optimizations, FlashAttention, and cloud-native architectures<br>🔗 Connect on below socials
+👋 Hi, I’m Ashutosh Agrawal<br>🎓 MS in Computer Engineering candidate at NYU Tandon<br>💼 Former Senior Software Engineer at LTIMindtree, leading development solutions for The Walt Disney Company<br>🛠️ Passionate about high-performance machine learning, distributed systems, and scalable web applications<br>🔍 Also exploring data roles—sparked an interest in data engineering, analytics, and data-driven decision making<br>🌱 Continuously learning new technologies—recent deep dives into PyTorch optimizations, FlashAttention, and cloud-native architectures<br>🔗 Connect on below socials 
 
 # 🌐 Socials:
 <div align="left">
